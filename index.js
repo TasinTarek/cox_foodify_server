@@ -27,7 +27,7 @@ try{
     })
 }
 finally{
-
+console.log("Final")
 }
 }
 run().catch(console.dir)
